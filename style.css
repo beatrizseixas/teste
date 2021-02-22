@@ -1,0 +1,47 @@
+body{
+	font-family: verdana;
+	background-color: e0e2db; 
+	color: white;
+	align-items: center;
+
+}
+
+h1{
+	font-size: 55px;
+	padding-top: 280px;
+	padding-left: 200px;
+	padding-right: 1000px;
+	text-shadow: 5px 5px 15px black;
+	margin-bottom: 20px;
+	text-align: left
+}
+
+
+.botao{
+	text-decoration: none;
+	background-color: rgb(255,248,220);
+	color: black;
+	font-size: 18px;
+	padding: 8px 10px 8px 10px;
+	border-radius: 8px;
+	margin-top: 0px;
+	padding-left: 20px;
+	margin-left: 200px;
+	
+
+}
+
+.me{
+
+	width: 650px;
+	height: 450px;
+	max-width: 100%;
+	padding-left: 1000px;
+	padding-right: 200px;
+	position: absolute;
+	left: 10px;
+	top: 300px;
+
+
+}
+
